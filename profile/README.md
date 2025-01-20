@@ -8,8 +8,8 @@
 * 1-2월 내로 우리반 모두 1:1 면담 예정!!
 <br>
 
-## 🎀 [A로가는 지름길](https://abit.ly/s13-a09-etc-problem-set)
-* 2월 초 업데이트 예정!
+## 🎀 [A로가는 지름길](https://docs.google.com/spreadsheets/d/1s5DvaoezKMpgq9TYyObKb-qd-SqT0-N_0BZeF77LKzA/edit?gid=0#gid=0)
+* 1월 20일 버전
 <br>
 
 ## 🎁 우리반 규칙
