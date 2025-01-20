@@ -63,3 +63,4 @@ vue짱: TBA
 
 ## 우리의 자리 
 
+<img src="/profile/assets/01_0120-0307.png" style="width:80%;" alt="01_0120-0307"/>
